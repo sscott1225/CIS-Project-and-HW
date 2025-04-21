@@ -1,1 +1,2 @@
 This project is a SQL-based analysis of a movie database, completed as part of a CIS course. It includes various queries to extract insights on movies, actors, genres, and production companies. The project demonstrates skills in data retrieval, joins, aggregations, and filtering using SQL. Although this was done for a CIS class, it highlights data analysis skills relevant to marketing, such as understanding consumer preferences and industry trends.
+To Run code through Python download all files 
